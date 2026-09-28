@@ -14,12 +14,12 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 const avatarImages = [
-  "https://images.unsplash.com/photo-1774437787442-d58f8534ba9f?w=200&h=200&fit=crop&crop=face",
-  "https://images.unsplash.com/photo-1774850235906-f5eaafb425ac?w=200&h=200&fit=crop&crop=face",
-  "https://images.unsplash.com/photo-1590473159791-1d514fd3656e?w=200&h=200&fit=crop&crop=face",
-  "https://images.unsplash.com/photo-1768221677463-191fc4e15690?w=200&h=200&fit=crop&crop=face",
-  "https://images.unsplash.com/photo-1766716946030-5869da2a0ead?w=200&h=200&fit=crop&crop=face",
-  "https://images.unsplash.com/photo-1779231127485-672de7d385b4?w=200&h=200&fit=crop&crop=face",
+  "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&h=200&fit=crop&crop=face",
+  "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&h=200&fit=crop&crop=face",
+  "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=200&fit=crop&crop=face",
+  "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&h=200&fit=crop&crop=face",
+  "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop&crop=face",
+  "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop&crop=face",
 ];
 
 export function Testimonials() {

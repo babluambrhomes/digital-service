@@ -97,7 +97,7 @@ export default function IndustriesPage() {
         title="Industries We've Helped"
         titleHighlight="Grow Online"
         description="From restaurants to real estate, we've built growth systems for businesses in every industry. See all the industries we work with — and what we do for each one."
-        imageSrc="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&h=600&fit=crop"
+        imageSrc="https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1920&h=600&fit=crop"
         imageAlt="Industries We Serve"
       />
 

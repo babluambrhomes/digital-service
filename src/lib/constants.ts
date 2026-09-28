@@ -11,7 +11,7 @@ export const SITE_CONFIG = {
   name: "GrowthZone",
   tagline: "Your Complete Digital Growth Partner",
   description:
-    "We provide end-to-end digital services — from branding, web development, and mobile apps to WhatsApp Business, paid ads, AI-powered workflows, cloud solutions, and SEO. Everything your business needs to grow online, under one roof.",
+    "GrowthZone is a full-service digital agency in India helping small and medium businesses grow online. From web development, mobile app development, SEO and digital marketing to WhatsApp Business API, AI automation, branding, and cloud & DevOps — we deliver measurable results with transparent pricing. Trusted by 200+ Indian businesses across Mumbai, Delhi, Bangalore, and 40+ cities.",
   phone: "+91 99999 99999",
   email: "hello@growthzone.in",
   whatsapp: "8860057058",
@@ -34,7 +34,7 @@ export const SERVICES: Service[] = [
     title: "Software Development",
     slug: "software-development",
     shortDescription:
-      "Custom software, CRM, ERP, POS, and industry-specific management solutions built for your business.",
+      "Custom software development in India — CRM, ERP, POS, inventory, HR & payroll and industry-specific management software built for your business at transparent pricing.",
     description:
       "Off-the-shelf software forces you to adapt your business to its limitations. We build custom software that adapts to your business. From CRM and ERP systems to POS software, inventory management, HR & payroll, school management, hospital management, and real estate solutions — we develop tailored software that automates your operations, reduces errors, and scales with your growth.",
     icon: "Code",
@@ -131,7 +131,7 @@ export const SERVICES: Service[] = [
     title: "Branding & Design",
     slug: "branding-design",
     shortDescription:
-      "Logos, brand identity, UI/UX design, and complete branding kits that make your business look established.",
+      "Professional logo design & branding agency in India — brand identity, UI/UX design and complete branding kits that make your business look established.",
     description:
       "Your brand is the first thing customers notice. We create memorable logos, complete brand identities, UI/UX designs for websites and apps, business cards, social media creatives, and brand guidelines — everything that makes your business look professional and trustworthy from day one. Whether you're launching a startup or rebranding an existing business, our design team delivers visuals that connect with your audience.",
     icon: "Palette",
@@ -227,7 +227,7 @@ export const SERVICES: Service[] = [
     title: "Web Development",
     slug: "web-development",
     shortDescription:
-      "Custom websites, e-commerce stores, landing pages, and CMS solutions built with modern tech.",
+      "Website development company in India — custom business websites, e-commerce stores, landing pages and CMS built with Next.js & React, SEO-ready from day one.",
     description:
       "Your website is your 24/7 digital storefront. We build blazing-fast, responsive websites using modern technologies like Next.js, React, and Tailwind CSS. From business websites and e-commerce stores to landing pages and CMS solutions — we handle everything from design to deployment. Every site is mobile-first, SEO-optimized, and built to convert visitors into customers.",
     icon: "Globe",
@@ -325,7 +325,7 @@ export const SERVICES: Service[] = [
     title: "Mobile App Development",
     slug: "mobile-app-development",
     shortDescription:
-      "Android, iOS, and cross-platform apps built with Flutter/React Native — one codebase, both stores.",
+      "Mobile app development company in India — Android & iOS apps built with Flutter and React Native at a transparent cost, published on both stores.",
     description:
       "Your customers live on their phones — is your business there? We design and build fast, beautiful mobile apps for Android and iOS using Flutter and React Native. Whether you need a booking app, ordering app, loyalty program, or a full-featured business app, we handle everything from UI/UX design to Play Store and App Store publishing. One codebase, both stores, endless opportunities.",
     icon: "Smartphone",
@@ -420,7 +420,7 @@ export const SERVICES: Service[] = [
     title: "AI-Powered Workflow",
     slug: "ai-powered-workflow",
     shortDescription:
-      "AI-powered business process automation, workflow optimization, CRM automation, and intelligent lead management.",
+      "AI automation & business process automation for Indian SMBs — CRM automation, workflow optimization, and intelligent lead management running 24/7.",
     description:
       "Stop wasting hours on repetitive tasks. We build AI-powered workflow automations that handle lead follow-ups, email sequences, WhatsApp workflows, CRM automation, data entry, and report generation — all running 24/7 without human intervention. Our solutions connect your tools, eliminate manual work, and ensure nothing falls through the cracks. Set it up once, let the AI handle the rest while you focus on growing your business.",
     icon: "Zap",
@@ -516,7 +516,7 @@ export const SERVICES: Service[] = [
     title: "SEO & Digital Marketing",
     slug: "seo-digital-marketing",
     shortDescription:
-      "Local SEO, technical SEO, on-page/off-page SEO, and organic growth strategies.",
+      "SEO services in India — local SEO, technical SEO, on-page/off-page optimization and Google Business Profile management that ranks your business on Google.",
     description:
       "Get found by customers who are actively searching for your services — organically. We provide comprehensive SEO: local search optimization, technical audits, on-page and off-page optimization, link building, content strategy, and Google Business Profile management. Our data-driven approach delivers measurable, compounding results that grow your traffic month after month.",
     icon: "TrendingUp",
@@ -611,7 +611,7 @@ export const SERVICES: Service[] = [
     title: "Content Services",
     slug: "content-services",
     shortDescription:
-      "SEO content, blog writing, copywriting, product descriptions, and complete content strategies.",
+      "SEO content writing services in India — blog writing, website copywriting, product descriptions and complete content strategies that rank on Google.",
     description:
       "Content is how Google finds you and how customers trust you. We create SEO-optimized blog posts, website copy, product descriptions, social media content, email copy, ad copywriting, and technical writing that ranks on Google and converts visitors into customers. Every piece is researched, original, and tailored to your industry and audience.",
     icon: "PenLine",
@@ -709,7 +709,7 @@ export const SERVICES: Service[] = [
     title: "Cloud & DevOps",
     slug: "cloud-devops",
     shortDescription:
-      "Cloud deployment, server management, CI/CD pipelines, Docker, and infrastructure optimization.",
+      "Cloud & DevOps services in India — AWS deployment, server management, CI/CD pipelines, Docker and infrastructure optimization at cost-efficient pricing.",
     description:
       "Your software needs a robust, scalable, and secure infrastructure. We handle cloud deployment on AWS, Cloudflare, and other platforms, server setup and management, CI/CD pipelines, Docker containerization, database optimization, backup strategies, and monitoring. Whether you're launching a new app or optimizing existing infrastructure, we ensure your systems are fast, reliable, and cost-efficient.",
     icon: "Cloud",
@@ -804,7 +804,7 @@ export const SERVICES: Service[] = [
     title: "WhatsApp Business",
     slug: "whatsapp-business",
     shortDescription:
-      "WhatsApp Business setup, Business API, click-to-chat, catalogs, auto-replies, broadcasts, and CRM integration.",
+      "WhatsApp Business API setup & automation in India — business profile, click-to-chat, catalogs, auto-replies, broadcasts and CRM integration.",
     description:
       "WhatsApp is where your customers already are. We set up WhatsApp Business App and WhatsApp Business API, build your product catalog, create click-to-chat buttons for your website, set up auto-replies and away messages, build broadcast campaigns, and integrate everything with your CRM. Turn your WhatsApp into a powerful sales and support channel — running 24/7, never missing a lead.",
     icon: "MessageCircle",
@@ -898,7 +898,7 @@ export const SERVICES: Service[] = [
     title: "Paid Ads Management",
     slug: "paid-ads-management",
     shortDescription:
-      "Google Ads, Meta/Facebook Ads, YouTube Ads, and LinkedIn Ads — managed campaigns that deliver measurable ROI.",
+      "Google Ads & Facebook Ads management company in India — PPC campaigns with measurable ROI, conversion tracking and monthly reporting.",
     description:
       "Paid advertising is the fastest way to get in front of ready-to-buy customers. We manage Google Ads (Search, Display, Shopping, YouTube), Meta/Facebook and Instagram Ads, and LinkedIn Ads — from keyword research and ad copywriting to landing page design, conversion tracking, A/B testing, and monthly reporting. Every campaign is built to generate real enquiries and sales, not just clicks.",
     icon: "Megaphone",
@@ -995,56 +995,56 @@ export const SERVICES: Service[] = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: "1",
-    name: "Rajesh Kumar",
-    business: "TechNova Solutions",
-    role: "CTO",
+    name: "Arjun Mehta",
+    business: "Mehta Jewellers, Jaipur",
+    role: "Owner",
     content:
-      "GrowthZone built our entire web application and automated our workflows. Our operational efficiency improved by 300% and the custom CRM they built saves our team 15 hours every week. Absolutely phenomenal work!",
+      "We are a 3-generation jewellery business that had no online presence. GrowthZone built our website, set up Google My Business and started local SEO. In 4 months our store visits doubled and we now receive enquiries from customers across Rajasthan daily.",
     rating: 5,
   },
   {
     id: "2",
-    name: "Dr. Priya Sharma",
-    business: "HealthFirst Clinics",
-    role: "Director",
+    name: "Dr. Nandini Kulkarni",
+    business: "Physiotherapy & Rehab Clinic, Pune",
+    role: "Founder",
     content:
-      "From branding to website to AI chatbot — GrowthZone handled everything for our clinic chain. Patient bookings increased by 60% and the AI chatbot handles 80% of routine queries. Best digital partner we've ever worked with!",
+      "GrowthZone built our clinic website with online appointment booking, patient WhatsApp reminders and a review system. Appointment no-shows dropped by 40% and 70% of new patients now book directly from Google. Our clinic runs like clockwork.",
     rating: 5,
   },
   {
     id: "3",
-    name: "Amit Patel",
-    business: "ShopKart E-commerce",
-    role: "Founder",
+    name: "Imran Shaikh",
+    business: "Lace-up Fashion (D2C Brand), Surat",
+    role: "Co-Founder",
     content:
-      "GrowthZone built our e-commerce platform, mobile app, and handles all our digital marketing. Sales grew by 400% in 6 months. Their team understands technology AND business — rare combination!",
+      "Our Shopify-style store was ready in weeks and Google Ads paid for itself in the first month itself. GrowthZone manages our PPC, Instagram marketing and email campaigns. Online revenue crossed ₹40 lakh in the first year — from zero offline brand.",
     rating: 5,
   },
   {
     id: "4",
-    name: "Sneha Joshi",
-    business: "InnovateEd Academy",
-    role: "CEO",
+    name: "Sunita Agarwal",
+    business: "Agarwal Accounts & Tax Advisors, Indore",
+    role: "Partner",
     content:
-      "Our school management software, website, and mobile app — all built by GrowthZone. Parents love the app and our administrative work reduced by 50%. The AI-powered analytics help us make data-driven decisions.",
+      "As a CA firm we needed a professional digital presence to win corporate clients. GrowthZone created a clean website, LinkedIn branding and automated enquiry follow-ups on WhatsApp. We have added 25+ new corporate clients in 8 months.",
     rating: 5,
   },
   {
     id: "5",
-    name: "Vikram Singh",
-    business: "BuildRight Construction",
+    name: "Rajesh Verma",
+    business: "Shree Balaji Logistics, Kanpur",
     role: "Managing Director",
     content:
-      "GrowthZone developed our real estate management software, CRM, and cloud infrastructure. Lead management is now fully automated and our sales team closes 3x more deals. Outstanding technical expertise!",
+      "Our transport business was running on registers and phone calls. GrowthZone built our fleet management software, driver app and GPS tracking dashboard. Operational errors fell by 60% and we now track every consignment in real time.",
     rating: 5,
   },
   {
     id: "6",
-    name: "Meera Reddy",
-    business: "CloudFirst Technologies",
-    role: "VP Engineering",
+    name: "Pooja Reddy",
+    business: "SpiceRoute Restaurant, Hyderabad",
+    role: "Owner",
     content:
-      "GrowthZone migrated our entire infrastructure to AWS, set up CI/CD pipelines, and built custom DevOps automation. Our deployment time went from 2 hours to 5 minutes. Their cloud expertise is world-class!",
+      "Online orders today are 65% of our revenue. GrowthZone built our food ordering website, WhatsApp order bot, and local SEO that makes us rank #1 for 'Hyderabad biryani delivery'. They care about our business like their own.",
     rating: 5,
   },
 ];

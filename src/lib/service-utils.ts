@@ -34,7 +34,7 @@ export const serviceImages: Record<string, string> = {
   "software-development":
     "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=500&fit=crop",
   "ai-powered-workflow":
-    "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=500&fit=crop",
+    "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&h=500&fit=crop",
   "seo-digital-marketing":
     "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=500&fit=crop",
   "content-services":
@@ -42,9 +42,9 @@ export const serviceImages: Record<string, string> = {
   "cloud-devops":
     "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=500&fit=crop",
   "whatsapp-business":
-    "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?w=600&h=500&fit=crop",
+    "https://images.unsplash.com/photo-1526498460520-4c246339dccb?w=600&h=500&fit=crop",
   "paid-ads-management":
-    "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=500&fit=crop",
+    "https://images.unsplash.com/photo-1556157382-97eda2d62296?w=600&h=500&fit=crop",
 };
 
 export const serviceHighlights: Record<string, string> = {
@@ -128,21 +128,21 @@ export const serviceColors: Record<
 
 export const serviceDetailImages: Record<string, string> = {
   "branding-design":
-    "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1400&h=600&fit=crop",
   "web-development":
-    "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1400&h=600&fit=crop",
   "mobile-app-development":
-    "https://images.unsplash.com/photo-1526498460520-4c246339dccb?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1400&h=600&fit=crop",
   "software-development":
-    "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1400&h=600&fit=crop",
   "ai-powered-workflow":
-    "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1400&h=600&fit=crop",
   "seo-digital-marketing":
-    "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1400&h=600&fit=crop",
   "content-services":
-    "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1400&h=600&fit=crop",
   "cloud-devops":
-    "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1400&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1400&h=600&fit=crop",
   "whatsapp-business":
     "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?w=1400&h=600&fit=crop",
   "paid-ads-management":

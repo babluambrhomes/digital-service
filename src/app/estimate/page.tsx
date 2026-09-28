@@ -2,9 +2,11 @@ import type { Metadata } from "next";
 import { EstimateContent } from "@/components/estimate/EstimateContent";
 
 export const metadata: Metadata = {
-  title: "Estimate",
+  title: "Project Cost Estimate | GrowthZone",
   description:
-    "Estimate your project cost — pick a Starter plan or a Custom quote. Transparent estimates for branding, web, apps, software, AI, cloud, SEO, and more.",
+    "Estimate your website, app or software project cost in minutes. Transparent ₹ pricing for branding, web development, mobile apps, software, AI, cloud, SEO and digital marketing in India.",
+  keywords: ["website cost estimate india", "app development cost calculator", "project estimate digital agency"],
+  alternates: { canonical: "/estimate" },
 };
 
 export default function EstimatePage() {

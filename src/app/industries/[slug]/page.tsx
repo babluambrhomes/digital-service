@@ -12,9 +12,40 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const industry = INDUSTRIES.find((i) => i.slug === slug);
   if (!industry) return {};
 
+  const title = `${industry.title} Services`;
   return {
-    title: `${industry.title} | GrowthZone`,
+    title,
     description: industry.description,
+    keywords: [
+      industry.title.toLowerCase(),
+      "digital solutions india",
+      "business software india",
+      "digital transformation india",
+    ],
+    openGraph: {
+      title,
+      description: industry.description,
+      url: `https://growthzone.in/industries/${industry.slug}`,
+      siteName: "GrowthZone",
+      locale: "en_IN",
+      type: "website",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=630&fit=crop",
+          width: 1200,
+          height: 630,
+          alt: industry.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: industry.description,
+    },
+    alternates: {
+      canonical: `/industries/${industry.slug}`,
+    },
   };
 }
 

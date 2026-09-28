@@ -3,16 +3,16 @@
 import { motion } from "framer-motion";
 
 const brands = [
-  { name: "TechNova", logo: "🚀" },
-  { name: "HealthFirst", logo: "🏥" },
-  { name: "ShopKart", logo: "🛒" },
-  { name: "InnovateEd", logo: "📚" },
-  { name: "BuildRight", logo: "🏗️" },
-  { name: "CloudFirst", logo: "☁️" },
-  { name: "DataPulse", logo: "📊" },
-  { name: "FinEdge", logo: "💰" },
-  { name: "MedConnect", logo: "⚕️" },
-  { name: "GreenTech", logo: "🌱" },
+  { name: "Mehta Jewellers", logo: "MJ" },
+  { name: "RehabFirst Clinic", logo: "RF" },
+  { name: "Lace-up Fashion", logo: "LF" },
+  { name: "Agarwal Associates", logo: "AA" },
+  { name: "Shree Balaji Logistics", logo: "SB" },
+  { name: "SpiceRoute", logo: "SR" },
+  { name: "Kaveri Traders", logo: "KT" },
+  { name: "Sunrise Dental", logo: "SD" },
+  { name: "UrbanNest Realty", logo: "UR" },
+  { name: "Bharat Packers", logo: "BP" },
 ];
 
 export function TrustedBy() {
@@ -37,7 +37,12 @@ export function TrustedBy() {
                 key={`${brand.name}-${i}`}
                 className="flex items-center gap-3 px-6 py-3 rounded-2xl border-2 border-dashed border-border bg-card/50 hand-shadow hover:hand-shadow-lg transition-all shrink-0"
               >
-                <span className="text-2xl">{brand.logo}</span>
+                <span
+                  className="flex h-9 w-9 items-center justify-center rounded-full bg-gradient-to-br from-primary/80 to-primary font-patrick text-xs font-bold text-white border-2 border-white/30"
+                  aria-hidden="true"
+                >
+                  {brand.logo}
+                </span>
                 <span className="font-patrick text-sm font-semibold text-muted-foreground">
                   {brand.name}
                 </span>

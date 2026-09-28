@@ -137,7 +137,7 @@ export const INDUSTRIES: Industry[] = [
     title: "Real Estate & PropTech",
     slug: "real-estate-and-proptech",
     description:
-      "Real estate management software, property websites, CRM, and automation for developers, agents, and property managers.",
+      "Real estate management software, property websites, CRM, and lead automation for developers, brokers, and property managers across India.",
     focus: [
       "Real estate management software",
       "Property listing platforms",
@@ -187,7 +187,7 @@ export const INDUSTRIES: Industry[] = [
     title: "Hospitality & Restaurants",
     slug: "hospitality-and-restaurants",
     description:
-      "Booking platforms, ordering apps, POS systems, and digital marketing that keep tables full and guests happy.",
+      "Booking platforms, ordering apps, POS systems, and digital marketing that keep restaurant tables full and hotel bookings high.",
     focus: [
       "Online ordering & booking apps",
       "Restaurant POS systems",
@@ -312,7 +312,7 @@ export const INDUSTRIES: Industry[] = [
     title: "Professional Services",
     slug: "professional-services",
     description:
-      "Websites, CRM, and automation for legal, accounting, consulting, and other professional firms.",
+      "Websites, CRM, and appointment automation for legal, CA/accounting, consulting, and other professional firms that build client trust.",
     focus: [
       "Trust-building websites",
       "CRM & client management",
@@ -362,7 +362,7 @@ export const INDUSTRIES: Industry[] = [
     title: "Travel & Tourism",
     slug: "travel-and-tourism",
     description:
-      "Booking platforms, travel apps, and marketing that turn browsers into bookings for travel agencies and tour operators.",
+      "Booking platforms, travel apps, and marketing that turn browsers into bookings for travel agencies and tour operators across India.",
     focus: [
       "Booking & travel platforms",
       "Travel mobile apps",

@@ -2,6 +2,15 @@ import { CASE_STUDIES } from "@/lib/caseStudies";
 import { CaseStudyRow } from "@/components/shared/CaseStudyRow";
 import { PageBanner } from "@/components/shared/PageBanner";
 import { DarkCTA } from "@/components/shared/DarkCTA";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Case Studies & Success Stories | GrowthZone",
+  description:
+    "Real success stories from Indian businesses we've helped grow — jewellery retail, healthcare, D2C e-commerce, CA firms, logistics and restaurants. See the measurable results we delivered.",
+  keywords: ["digital agency case studies india", "growth stories sme india", "website seo results india"],
+  alternates: { canonical: "/case-studies" },
+};
 
 export default function CaseStudiesPage() {
   return (

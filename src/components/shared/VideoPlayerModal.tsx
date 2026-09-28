@@ -4,7 +4,7 @@ import { useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X } from "lucide-react";
 
-export const VIDEO_URL = "https://www.youtube.com/embed/dQw4w9WgXcQ";
+export const VIDEO_URL = "https://www.youtube.com/embed/z1JG_iGp9zs";
 
 export function VideoPlayerModal({
   isOpen,

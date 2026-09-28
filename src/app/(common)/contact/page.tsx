@@ -55,7 +55,7 @@ export default function ContactPage() {
         title="Let's Start Growing"
         titleHighlight="Your Business"
         description="Get a free consultation. Tell us about your business and goals, and we'll create a customized growth strategy — completely free."
-        imageSrc="https://images.unsplash.com/photo-1423666639041-f56000c27a9a?w=1920&h=600&fit=crop"
+        imageSrc="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1920&h=600&fit=crop"
         imageAlt="Contact Us"
       />
 

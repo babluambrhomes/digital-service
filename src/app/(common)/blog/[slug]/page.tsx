@@ -16,9 +16,41 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = BLOG_POSTS.find((p) => p.id === slug);
   if (!post) return {};
 
+  const title = `${post.title} | GrowthZone Blog`;
   return {
-    title: `${post.title} | GrowthZone Blog`,
+    title,
     description: post.excerpt,
+    keywords: [
+      post.category.toLowerCase(),
+      "digital services",
+      "business growth",
+      "india",
+      "seo",
+    ],
+    openGraph: {
+      title,
+      description: post.excerpt,
+      url: `https://growthzone.in/blog/${post.id}`,
+      siteName: "GrowthZone",
+      locale: "en_IN",
+      type: "article",
+      images: [
+        {
+          url: "https://images.unsplash.com/photo-1487611459768-bd414656ea10?w=1200&h=630&fit=crop",
+          width: 1200,
+          height: 630,
+          alt: post.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: post.excerpt,
+    },
+    alternates: {
+      canonical: `/blog/${post.id}`,
+    },
   };
 }
 
